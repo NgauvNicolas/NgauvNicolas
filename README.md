@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NgauvNicolas
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Computer Science, especially in Data Science, everything about Digital Technologies, and Cybersecurity
+- 🌱 I’m currently learning Data Science (NLP)
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
