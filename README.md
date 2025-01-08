@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NgauvNicolas
-- 👀 I’m interested in ***Computer Science***: particularly in **Data Science** and **Artificial Intelligence** and **Digital Technologies** in general
+- 👀 I’m interested in ***Computer Science***: particularly in **Data Science**, **Artificial Intelligence** and **Digital Technologies** in general
 - 🌱 I’m currently learning ***Data Science***, ***Natural Language Processing (NLP)***
 <!---
 - 💞️ I’m looking to collaborate on ...
